@@ -24,3 +24,5 @@ In this project, we will perform several tasks to process images, starting from 
 ## Installation 
 1. Clone this repository
 2. Install the required dependecies
+
+extensions need : python, pylance, jupyter
